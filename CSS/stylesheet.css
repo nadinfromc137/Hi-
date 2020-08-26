@@ -1,0 +1,129 @@
+body
+{
+  text-align: center;
+  margin: 0;
+  background-color: #ECFBFC;
+}
+h1
+{
+  font-family: 'Sacramento', cursive;
+font-size: 3rem;
+}
+
+h2
+{
+  font-family: 'Sacramento', cursive;
+font-size: 2rem;
+}
+
+h3
+{
+  font-family:'Montserrat', sans-serif;
+}
+
+h4
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h5
+{
+  font-family: 'Playfair Display SC', serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.pro
+{
+text-decoration: underline;
+font-size: 3rem;
+}
+
+.top-container
+{
+  height: 669px;
+  padding: 200px;
+  background-color: #D6E5FA;
+}
+
+.second
+{
+  padding: 25px;
+}
+
+.quote
+{
+  font-size: 3.5rem;
+}
+.underline
+{
+  text-decoration: underline;
+}
+.wideme
+{
+  width: 70%;
+  text-align: center;
+}
+
+.coding
+{
+padding: 100px 150px;
+width: 50%;
+align-items: center;
+display: inline-block;
+font-size: 1.35rem;
+}
+
+.codingimg
+{
+  width: 20%;
+  float: left;
+  padding-right: 30px;
+}
+
+.photography
+{
+  padding: 100px 150px;
+  width: 50%;
+  align-items: center;
+  display: inline-block;
+  font-size: 1.35rem;
+}
+.camera
+{
+  float: right;
+}
+
+.contact
+{
+  padding: 50px 0 20px;
+}
+.bottom
+{
+  position: relative;
+}
+
+
+.myrule
+{
+  color: #d77fa1;
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 10px 0 0 0;
+   border-spacing: 200px;
+   width: 15%;
+   margin: 50px auto;
+
+}
+
+.middle-container
+{
+  background-color: #fef6fb;
+}
+.bottom-container
+{
+  background-color: #b3cff6;
+  padding: 50px 0;
+}
