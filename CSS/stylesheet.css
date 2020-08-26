@@ -94,6 +94,10 @@ font-size: 1.35rem;
 .camera
 {
   float: right;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 
 .contact
@@ -122,8 +126,41 @@ font-size: 1.35rem;
 {
   background-color: #fef6fb;
 }
+.middle-container-shots
+{
+  background-color: #fef6fb;
+  padding: 100px 100px;
+  width: 60%;
+  align-items: center;
+  display: inline-block;
+  font-size: 1.35rem;
+}
+
+.swan
+{
+  width: 50%
+}
 .bottom-container
 {
   background-color: #b3cff6;
   padding: 50px 0;
+}
+
+.auberge
+{
+ display: block;
+}
+.aub
+{
+  width: 60%;
+  padding: 30px;
+}
+.diane
+{
+  text-align: right;
+}
+
+.shottitle
+{
+  font-size: 3.5rem;
 }
